@@ -4,3 +4,4 @@ di  tanggal 21 05 2024 saya mulai belajar lagi dengan serius untuk bisa menembus
 tanggal 10 06 2024 saya memulai lagi belajar python code 
 its works. 
 test 123
+
