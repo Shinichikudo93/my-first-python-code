@@ -14,3 +14,14 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+jumlah_buku = 10
+print('ibu berkata"baca semua bukumu "')
+jumlah_buku_yang_sudah_dibaca = 0
+
+for i in range(1, 11):
+    print(f"Buku ke {jumlah_buku_yang_sudah_dibaca}sudah dibaca")
+
+print(jumlah_buku_yang_sudah_dibaca)
+xml
+
+
