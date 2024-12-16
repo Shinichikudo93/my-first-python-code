@@ -20,3 +20,4 @@ shopping_list.add_item("eggs", 16)
 
 # Menampilkan daftar belanja
 shopping_list.show_list()
+test 
